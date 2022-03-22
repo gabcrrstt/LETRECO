@@ -1,2 +1,2 @@
 # LETRECO
-Baseado no jogo Termo/Letreco
+Baseado no jogo Term.ooo/Letreco
